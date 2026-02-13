@@ -5,8 +5,10 @@ A modern, interactive 3D flip card component built with HTML, CSS, and JavaScrip
 ## 🚀 Project Preview
 
 <p align="center">
-  <img src="screenshot.login.png" width="407"/>
-  <img src="screenshot.logout.png" width="410"/>
+  <img src="flip cards.png" width="407"/>
+  <img src="flip 1.png" width="137"/>
+   <img src="flip 2.png" width="147"/>
+   <img src="flip 3.png" width="134"/>
 </p>
 
 ---
